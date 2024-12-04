@@ -1,0 +1,7 @@
+names:
+- circle_point
+- cable
+- knitting_part
+nc: 3
+train: ./dataset/images/train
+val: ./dataset/images/val
